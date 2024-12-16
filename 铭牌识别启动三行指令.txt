@@ -1,0 +1,3 @@
+ocrpicture
+conda activate paddle
+python .\ocr_picture.py
